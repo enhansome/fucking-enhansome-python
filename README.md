@@ -1,6 +1,6 @@
 # Fucking Awesome Python with stars
 
-A curated list with Github stars and forks stats based on awesome [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,781 | 🐛 21 | 🌐 Python | 📅 2026-10-02
+A curated list with Github stars and forks stats based on awesome [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,795 | 🐛 21 | 🌐 Python | 📅 2026-10-02
 
 Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-go) ⭐ 94 | 🐛 1 | 📅 2018-03-20.
 
@@ -122,7 +122,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 *Python implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,598 | 🐛 0 | 📅 2026-09-22.*
 
 * Algorithms
-  * [:octocat: TheAlgorithms](https://github.com/TheAlgorithms/Python) ⭐ 225,217 | 🐛 7 | 🌐 Python | 📅 2026-10-01 - :star: 160888 :fork\_and\_knife: 40767 - All Algorithms implemented in Python.
+  * [:octocat: TheAlgorithms](https://github.com/TheAlgorithms/Python) ⭐ 225,220 | 🐛 6 | 🌐 Python | 📅 2026-10-03 - :star: 160888 :fork\_and\_knife: 40767 - All Algorithms implemented in Python.
   * [:octocat: algorithms](https://github.com/keon/algorithms) ⭐ 25,559 | 🐛 14 | 🌐 Python | 📅 2026-09-25 - :star: 22740 :fork\_and\_knife: 4501 - Minimal examples of data structures and algorithms.
   * [:octocat: sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) ⭐ 3,980 | 🐛 41 | 🌐 Python | 📅 2024-03-08 - :star: 2985 :fork\_and\_knife: 195 - Fast and pure-Python implementation of sorted collections.
   * [:octocat: python-ds](https://github.com/prabhupant/python-ds) ⭐ 3,095 | 🐛 34 | 🌐 Python | 📅 2024-04-06 - :star: 2141 :fork\_and\_knife: 540 - A collection of data structure and algorithms for coding interviews.
@@ -135,7 +135,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 *[ASGI](https://asgi.readthedocs.io/en/latest/)-compatible web servers.*
 
-* [:octocat: uvicorn](https://github.com/encode/uvicorn) ⭐ 11,003 | 🐛 108 | 🌐 Python | 📅 2026-10-02 - :star: 6752 :fork\_and\_knife: 596 - A lightning-fast ASGI server implementation, using uvloop and httptools.
+* [:octocat: uvicorn](https://github.com/encode/uvicorn) ⭐ 11,005 | 🐛 108 | 🌐 Python | 📅 2026-10-02 - :star: 6752 :fork\_and\_knife: 596 - A lightning-fast ASGI server implementation, using uvloop and httptools.
 * [:octocat: daphne](https://github.com/django/daphne) ⭐ 2,686 | 🐛 40 | 🌐 Python | 📅 2026-08-28 - :star: 2050 :fork\_and\_knife: 242 - A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP.
 
 ## Asynchronous Programming
@@ -161,7 +161,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
   * [:octocat: TimeSide](https://github.com/Parisson/TimeSide) ⭐ 393 | 🐛 33 | 🌐 Python | 📅 2024-10-14 - :star: 351 :fork\_and\_knife: 62 - Open web audio processing framework.
   * [:earth\_americas: mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
 * Metadata
-  * [:octocat: beets](https://github.com/beetbox/beets) ⭐ 15,738 | 🐛 709 | 🌐 Python | 📅 2026-10-02 - :star: 11754 :fork\_and\_knife: 1808 - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
+  * [:octocat: beets](https://github.com/beetbox/beets) ⭐ 15,739 | 🐛 709 | 🌐 Python | 📅 2026-10-02 - :star: 11754 :fork\_and\_knife: 1808 - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
   * [:octocat: mutagen](https://github.com/quodlibet/mutagen) ⭐ 1,965 | 🐛 125 | 🌐 Python | 📅 2026-08-20 - :star: 1293 :fork\_and\_knife: 143 - A Python module to handle audio metadata.
   * [:octocat: tinytag](https://github.com/devsnd/tinytag) ⭐ 842 | 🐛 5 | 🌐 Python | 📅 2026-09-15 - :star: 607 :fork\_and\_knife: 100 - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
   * [:octocat: eyeD3](https://github.com/nicfit/eyeD3) ⭐ 640 | 🐛 39 | 🌐 Python | 📅 2026-05-26 - :star: 481 :fork\_and\_knife: 58 - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
@@ -173,12 +173,12 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 * OAuth
   * [:octocat: django-allauth](https://github.com/pennersr/django-allauth) ⭐ 10,379 | 🐛 2 | 🌐 Python | 📅 2026-10-01 - :star: 8066 :fork\_and\_knife: 2819 - Authentication app for Django that "just works."
   * [:octocat: authlib](https://github.com/lepture/authlib) ⭐ 5,430 | 🐛 147 | 🌐 Python | 📅 2026-08-31 - :star: 3841 :fork\_and\_knife: 377 - JavaScript Object Signing and Encryption draft implementation.
-  * [:octocat: django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) ⭐ 3,341 | 🐛 45 | 🌐 Python | 📅 2026-10-03 - :star: 2855 :fork\_and\_knife: 751 - OAuth 2 goodies for Django.
+  * [:octocat: django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) ⭐ 3,340 | 🐛 45 | 🌐 Python | 📅 2026-10-03 - :star: 2855 :fork\_and\_knife: 751 - OAuth 2 goodies for Django.
   * [:octocat: python-oauth2](https://github.com/joestump/python-oauth2) ⭐ 3,008 | 🐛 75 | 🌐 Python | 📅 2024-04-09 - :star: 2982 :fork\_and\_knife: 1046 - A fully tested, abstract interface to creating OAuth clients and servers.
   * [:octocat: oauthlib](https://github.com/idan/oauthlib) ⭐ 2,985 | 🐛 126 | 🌐 Python | 📅 2026-10-02 - :star: 2609 :fork\_and\_knife: 488 - A generic and thorough implementation of the OAuth request-signing logic.
   * [:octocat: python-social-auth](https://github.com/omab/python-social-auth) ⭐ 2,802 | 🐛 24 | 🌐 Python | 📅 2022-07-01 - :star: 2834 :fork\_and\_knife: 1121 - An easy-to-setup social authentication mechanism.
 * JWT
-  * [:octocat: pyjwt](https://github.com/jpadilla/pyjwt) ⭐ 5,712 | 🐛 51 | 🌐 Python | 📅 2026-09-29 - :star: 4633 :fork\_and\_knife: 637 - JSON Web Token implementation in Python.
+  * [:octocat: pyjwt](https://github.com/jpadilla/pyjwt) ⭐ 5,713 | 🐛 51 | 🌐 Python | 📅 2026-09-29 - :star: 4633 :fork\_and\_knife: 637 - JSON Web Token implementation in Python.
   * [:octocat: python-jose](https://github.com/mpdavis/python-jose/) ⭐ 1,761 | 🐛 123 | 🌐 Python | 📅 2026-04-14 - :star: 1321 :fork\_and\_knife: 226 - A JOSE implementation in Python.
   * [:octocat: python-jwt](https://github.com/davedoesdev/python-jwt) ⚠️ Archived - :star: 213 :fork\_and\_knife: 27 - A module for generating and verifying JSON Web Tokens.
 
@@ -248,7 +248,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
   * [:octocat: prospector](https://github.com/PyCQA/prospector) ⭐ 2,083 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - :star: 1830 :fork\_and\_knife: 170 - A tool to analyse Python code.
   * [:octocat: pycallgraph](https://github.com/gak/pycallgraph) ⚠️ Archived - :star: 1742 :fork\_and\_knife: 314 - A library that visualises the flow (call graph) of your Python application.
 * Code Linters
-  * [:octocat: wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,918 | 🐛 18 | 🌐 Python | 📅 2026-10-02 - :star: 2249 :fork\_and\_knife: 376 - The strictest and most opinionated python linter ever.
+  * [:octocat: wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,918 | 🐛 16 | 🌐 Python | 📅 2026-10-03 - :star: 2249 :fork\_and\_knife: 376 - The strictest and most opinionated python linter ever.
   * [:octocat: pylama](https://github.com/klen/pylama) ⭐ 1,048 | 🐛 74 | 🌐 Python | 📅 2026-06-22 - :star: 1003 :fork\_and\_knife: 102 - A code audit tool for Python and JavaScript.
   * [:earth\_americas: flake8](https://pypi.org/project/flake8/) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
     * [:octocat: awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) ⭐ 1,282 | 🐛 1 | 📅 2026-07-21 - :star: 1117 :fork\_and\_knife: 43
@@ -287,12 +287,12 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 * Productivity Tools
   * [:octocat: thefuck](https://github.com/nvbn/thefuck) ⭐ 97,891 | 🐛 461 | 🌐 Python | 📅 2024-07-19 - :star: 78474 :fork\_and\_knife: 3386 - Correcting your previous console command.
-  * [:octocat: cookiecutter](https://github.com/audreyr/cookiecutter) ⭐ 25,124 | 🐛 322 | 🌐 Python | 📅 2026-04-01 - :star: 19920 :fork\_and\_knife: 1862 - A command-line utility that creates projects from cookiecutters (project templates).
+  * [:octocat: cookiecutter](https://github.com/audreyr/cookiecutter) ⭐ 25,125 | 🐛 322 | 🌐 Python | 📅 2026-04-01 - :star: 19920 :fork\_and\_knife: 1862 - A command-line utility that creates projects from cookiecutters (project templates).
   * [:octocat: howdoi](https://github.com/gleitz/howdoi) ⭐ 10,841 | 🐛 19 | 🌐 Python | 📅 2026-09-30 - :star: 10134 :fork\_and\_knife: 866 - Instant coding answers via the command line.
   * [:octocat: PathPicker](https://github.com/facebook/PathPicker) ⭐ 5,236 | 🐛 26 | 🌐 Python | 📅 2024-09-05 - :star: 4931 :fork\_and\_knife: 311 - Select files out of bash output.
   * [:octocat: Invoke](https://github.com/pyinvoke/invoke#readme) ⭐ 4,779 | 🐛 467 | 🌐 Python | 📅 2026-04-07 - :star: 4012 :fork\_and\_knife: 352 - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
   * [:octocat: tmuxp](https://github.com/tony/tmuxp) ⭐ 4,588 | 🐛 138 | 🌐 Python | 📅 2026-10-02 - :star: 3727 :fork\_and\_knife: 228 - A [tmux](https://github.com/tmux/tmux) ⭐ 49,630 | 🐛 47 | 🌐 C | 📅 2026-10-03 session manager.
-  * [:octocat: copier](https://github.com/pykong/copier) ⭐ 3,608 | 🐛 144 | 🌐 Python | 📅 2026-09-30 - :star: 1147 :fork\_and\_knife: 128 - A library and command-line utility for rendering projects templates.
+  * [:octocat: copier](https://github.com/pykong/copier) ⭐ 3,609 | 🐛 144 | 🌐 Python | 📅 2026-09-30 - :star: 1147 :fork\_and\_knife: 128 - A library and command-line utility for rendering projects templates.
   * [:octocat: doitlive](https://github.com/sloria/doitlive) ⭐ 3,582 | 🐛 14 | 🌐 Python | 📅 2026-09-08 - :star: 3306 :fork\_and\_knife: 100 - A tool for live presentations in the terminal.
   * [:octocat: percol](https://github.com/mooz/percol) ⭐ 3,321 | 🐛 51 | 🌐 Python | 📅 2023-12-30 - :star: 3206 :fork\_and\_knife: 148 - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
   * [:octocat: try](https://github.com/timofurrer/try) ⭐ 744 | 🐛 4 | 🌐 Python | 📅 2022-05-23 - :star: 680 :fork\_and\_knife: 41 - A dead simple CLI to try out python packages - it's never been easier.
@@ -319,8 +319,8 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 * [:octocat: Face Recognition](https://github.com/ageitgey/face_recognition) ⭐ 56,793 | 🐛 832 | 🌐 Python | 📅 2026-06-25 - :star: 48796 :fork\_and\_knife: 13016 - Simple facial recognition library.
 * [:octocat: EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 30,042 | 🐛 532 | 🌐 Python | 📅 2025-12-05 - :star: 18816 :fork\_and\_knife: 2669 - Ready-to-use OCR with 40+ languages supported.
-* [:octocat: Kornia](https://github.com/kornia/kornia/) ⭐ 11,395 | 🐛 212 | 🌐 Python | 📅 2026-10-02 - :star: 8362 :fork\_and\_knife: 851 - Open Source Differentiable Computer Vision Library for PyTorch.
-* [:octocat: pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,393 | 🐛 21 | 🌐 Python | 📅 2026-09-28 - :star: 4944 :fork\_and\_knife: 661 - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
+* [:octocat: Kornia](https://github.com/kornia/kornia/) ⭐ 11,396 | 🐛 211 | 🌐 Python | 📅 2026-10-03 - :star: 8362 :fork\_and\_knife: 851 - Open Source Differentiable Computer Vision Library for PyTorch.
+* [:octocat: pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,394 | 🐛 21 | 🌐 Python | 📅 2026-09-28 - :star: 4944 :fork\_and\_knife: 661 - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
 * [:octocat: SimpleCV](https://github.com/sightmachine/SimpleCV) ⭐ 2,732 | 🐛 121 | 🌐 Python | 📅 2024-12-20 - :star: 2616 :fork\_and\_knife: 814 - An open source framework for building computer vision applications.
 * [:octocat: tesserocr](https://github.com/sirfz/tesserocr) ⭐ 2,175 | 🐛 46 | 🌐 Python | 📅 2026-08-04 - :star: 1813 :fork\_and\_knife: 251 - Another simple, Pillow-friendly, wrapper around the `tesseract-ocr` API for OCR.
 * [:earth\_americas: OpenCV](https://opencv.org/) - Open Source Computer Vision Library.
@@ -381,8 +381,8 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 *Libraries for visualizing data. Also see [awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization) ⭐ 35,033 | 🐛 26 | 📅 2026-09-08.*
 
 * [:octocat: diagrams](https://github.com/mingrammer/diagrams) ⭐ 42,667 | 🐛 394 | 🌐 Python | 📅 2026-10-01 - :star: 30222 :fork\_and\_knife: 1918 - Diagram as Code.
-* [:octocat: Bokeh](https://github.com/bokeh/bokeh) ⭐ 20,455 | 🐛 846 | 🌐 TypeScript | 📅 2026-10-03 - :star: 17747 :fork\_and\_knife: 4112 - Interactive Web Plotting for Python.
-* [:octocat: Seaborn](https://github.com/mwaskom/seaborn) ⭐ 14,053 | 🐛 239 | 🌐 Python | 📅 2026-07-06 - :star: 10907 :fork\_and\_knife: 1738 - Statistical data visualization using Matplotlib.
+* [:octocat: Bokeh](https://github.com/bokeh/bokeh) ⭐ 20,455 | 🐛 847 | 🌐 TypeScript | 📅 2026-10-03 - :star: 17747 :fork\_and\_knife: 4112 - Interactive Web Plotting for Python.
+* [:octocat: Seaborn](https://github.com/mwaskom/seaborn) ⭐ 14,054 | 🐛 239 | 🌐 Python | 📅 2026-07-06 - :star: 10907 :fork\_and\_knife: 1738 - Statistical data visualization using Matplotlib.
 * [:octocat: Altair](https://github.com/altair-viz/altair) ⭐ 10,489 | 🐛 158 | 🌐 Python | 📅 2026-10-01 - :star: 8368 :fork\_and\_knife: 737 - Declarative statistical visualization library for Python.
 * [:octocat: plotnine](https://github.com/has2k1/plotnine) ⭐ 4,769 | 🐛 76 | 🌐 Python | 📅 2026-09-28 - :star: 3510 :fork\_and\_knife: 203 - A grammar of graphics for Python based on ggplot2.
 * [:octocat: bqplot](https://github.com/bloomberg/bqplot) ⭐ 3,692 | 🐛 279 | 🌐 TypeScript | 📅 2026-05-07 - :star: 3451 :fork\_and\_knife: 474 - Interactive Plotting Library for the Jupyter Notebook
@@ -407,7 +407,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 *Libraries for connecting and operating databases.*
 
-* PostgreSQL - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,103 | 🐛 84 | 📅 2026-08-31
+* PostgreSQL - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,104 | 🐛 84 | 📅 2026-08-31
   * [:octocat: queries](https://github.com/gmr/queries) ⭐ 254 | 🐛 5 | 🌐 Python | 📅 2021-11-16 - :star: 258 :fork\_and\_knife: 34 - A wrapper of the psycopg2 library for interacting with PostgreSQL.
   * [:earth\_americas: psycopg2](http://initd.org/psycopg/) - The most popular PostgreSQL adapter for Python.
 * MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
@@ -417,10 +417,10 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
   * [:octocat: SuperSQLite](https://github.com/plasticityai/supersqlite) ⭐ 708 | 🐛 8 | 🌐 Python | 📅 2020-05-09 - :star: 713 :fork\_and\_knife: 24 - A supercharged SQLite library built on top of [apsw](https://github.com/rogerbinns/apsw) ⭐ 850 | 🐛 24 | 🌐 C | 📅 2026-10-02.
   * [:earth\_americas: pymssql](https://pymssql.readthedocs.io/en/latest/) - A simple database interface to Microsoft SQL Server.
 * NoSQL Databases
-  * [:octocat: redis-py](https://github.com/andymccurdy/redis-py) ⭐ 13,646 | 🐛 88 | 🌐 Python | 📅 2026-10-02 - :star: 11629 :fork\_and\_knife: 2386 - The Python client for Redis.
+  * [:octocat: redis-py](https://github.com/andymccurdy/redis-py) ⭐ 13,647 | 🐛 86 | 🌐 Python | 📅 2026-10-03 - :star: 11629 :fork\_and\_knife: 2386 - The Python client for Redis.
   * [:octocat: kafka-python](https://github.com/dpkp/kafka-python) ⭐ 5,905 | 🐛 21 | 🌐 Python | 📅 2026-09-28 - :star: 5231 :fork\_and\_knife: 1358 - The Python client for Apache Kafka.
-  * [:octocat: pymongo](https://github.com/mongodb/mongo-python-driver) ⭐ 4,357 | 🐛 17 | 🌐 Python | 📅 2026-10-02 - :star: 3882 :fork\_and\_knife: 1116 - The official Python client for MongoDB.
-  * [:octocat: cassandra-driver](https://github.com/datastax/python-driver) ⭐ 1,429 | 🐛 17 | 🌐 Python | 📅 2026-07-21 - :star: 1342 :fork\_and\_knife: 522 - The Python Driver for Apache Cassandra.
+  * [:octocat: pymongo](https://github.com/mongodb/mongo-python-driver) ⭐ 4,358 | 🐛 17 | 🌐 Python | 📅 2026-10-02 - :star: 3882 :fork\_and\_knife: 1116 - The official Python client for MongoDB.
+  * [:octocat: cassandra-driver](https://github.com/datastax/python-driver) ⭐ 1,430 | 🐛 17 | 🌐 Python | 📅 2026-07-21 - :star: 1342 :fork\_and\_knife: 522 - The Python Driver for Apache Cassandra.
   * [:octocat: happybase](https://github.com/wbolster/happybase) ⭐ 609 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - :star: 603 :fork\_and\_knife: 165 - A developer-friendly library for Apache HBase.
   * [:earth\_americas: py2neo](https://py2neo.org/) - A client library and toolkit for working with Neo4j.
 * Asynchronous Clients
@@ -464,17 +464,17 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
   * [:octocat: memory\_profiler](https://github.com/fabianp/memory_profiler) ⭐ 87 | 🐛 0 | 🌐 Python | 📅 2022-10-19 - :star: 81 :fork\_and\_knife: 13 - Monitor Memory usage of Python code.
 * Others
   * [:octocat: icecream](https://github.com/gruns/icecream) ⭐ 10,110 | 🐛 71 | 🌐 Python | 📅 2026-08-21 - :star: 6848 :fork\_and\_knife: 143 - Inspect variables, expressions, and program execution with a single, simple function call.
-  * [:octocat: django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) ⭐ 8,380 | 🐛 86 | 🌐 Python | 📅 2026-09-28 - :star: 7564 :fork\_and\_knife: 1020 - Display various debug information for Django.
+  * [:octocat: django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) ⭐ 8,379 | 🐛 86 | 🌐 Python | 📅 2026-09-28 - :star: 7564 :fork\_and\_knife: 1020 - Display various debug information for Django.
   * [:octocat: pyelftools](https://github.com/eliben/pyelftools) ⭐ 2,284 | 🐛 56 | 🌐 Python | 📅 2026-10-02 - :star: 1701 :fork\_and\_knife: 486 - Parsing and analyzing ELF files and DWARF debugging information.
   * [:octocat: django-devserver](https://github.com/dcramer/django-devserver) ⭐ 1,263 | 🐛 59 | 🌐 Python | 📅 2020-02-26 - :star: 1274 :fork\_and\_knife: 167 - A drop-in replacement for Django's runserver.
   * [:octocat: flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar) ⭐ 978 | 🐛 39 | 🌐 JavaScript | 📅 2026-09-29 - :star: 876 :fork\_and\_knife: 131 - A port of the django-debug-toolbar to flask.
 
 ## Deep Learning
 
-*Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,002 | 🐛 88 | 📅 2025-05-26.*
+*Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,003 | 🐛 88 | 📅 2025-05-26.*
 
-* [:octocat: tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 200,668 | 🐛 3,242 | 🌐 C++ | 📅 2026-10-03 - :star: 176201 :fork\_and\_knife: 88687 - The most popular Deep Learning framework created by Google.
-* [:octocat: pytorch](https://github.com/pytorch/pytorch) ⭐ 103,632 | 🐛 17,576 | 🌐 Python | 📅 2026-10-03 - :star: 68879 :fork\_and\_knife: 18847 - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+* [:octocat: tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 200,672 | 🐛 3,243 | 🌐 C++ | 📅 2026-10-03 - :star: 176201 :fork\_and\_knife: 88687 - The most popular Deep Learning framework created by Google.
+* [:octocat: pytorch](https://github.com/pytorch/pytorch) ⭐ 103,634 | 🐛 17,579 | 🌐 Python | 📅 2026-10-03 - :star: 68879 :fork\_and\_knife: 18847 - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 * [:octocat: keras](https://github.com/keras-team/keras) ⭐ 64,348 | 🐛 255 | 🌐 Python | 📅 2026-10-02 - :star: 58844 :fork\_and\_knife: 19379 - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
 * [:octocat: caffe](https://github.com/BVLC/caffe) ⭐ 34,550 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 - :star: 33468 :fork\_and\_knife: 18994 - A fast open framework for deep learning..
 * [:octocat: mxnet](https://github.com/dmlc/mxnet) ⚠️ Archived - :star: 20486 :fork\_and\_knife: 6882 - A deep learning framework designed for both efficiency and flexibility.
@@ -486,9 +486,9 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 *Software and libraries for DevOps.*
 
 * Configuration Management
-  * [:octocat: ansible](https://github.com/ansible/ansible) ⭐ 70,834 | 🐛 863 | 🌐 Python | 📅 2026-10-02 - :star: 57982 :fork\_and\_knife: 23510 - A radically simple IT automation platform.
+  * [:octocat: ansible](https://github.com/ansible/ansible) ⭐ 70,835 | 🐛 863 | 🌐 Python | 📅 2026-10-02 - :star: 57982 :fork\_and\_knife: 23510 - A radically simple IT automation platform.
   * [:octocat: saltstack](https://github.com/saltstack/salt) ⭐ 15,685 | 🐛 1,877 | 🌐 Python | 📅 2026-09-30 - :star: 13353 :fork\_and\_knife: 5440 - Infrastructure automation and management system.
-  * [:octocat: pyinfra](https://github.com/Fizzadar/pyinfra) ⭐ 6,027 | 🐛 163 | 🌐 Python | 📅 2026-09-22 - :star: 2350 :fork\_and\_knife: 306 - A versatile CLI tools and python libraries to automate infrastructure.
+  * [:octocat: pyinfra](https://github.com/Fizzadar/pyinfra) ⭐ 6,027 | 🐛 164 | 🌐 Python | 📅 2026-09-22 - :star: 2350 :fork\_and\_knife: 306 - A versatile CLI tools and python libraries to automate infrastructure.
   * [:earth\_americas: cloudinit](https://cloudinit.readthedocs.io/en/latest/) - A multi-distribution package that handles early initialization of a cloud instance.
   * [:earth\_americas: OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
 * SSH-style Deployment
@@ -510,9 +510,9 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 *Frameworks and libraries for Distributed Computing.*
 
 * Batch Processing
-  * [:octocat: Ray](https://github.com/ray-project/ray/) ⭐ 43,965 | 🐛 3,544 | 🌐 Python | 📅 2026-10-03 - :star: 26613 :fork\_and\_knife: 4606 - A system for parallel and distributed Python that unifies the machine learning ecosystem.
+  * [:octocat: Ray](https://github.com/ray-project/ray/) ⭐ 43,965 | 🐛 3,538 | 🌐 Python | 📅 2026-10-03 - :star: 26613 :fork\_and\_knife: 4606 - A system for parallel and distributed Python that unifies the machine learning ecosystem.
   * [:octocat: luigi](https://github.com/spotify/luigi) ⭐ 18,778 | 🐛 178 | 🌐 Python | 📅 2026-07-18 - :star: 16648 :fork\_and\_knife: 2376 - A module that helps you build complex pipelines of batch jobs.
-  * [:octocat: dask](https://github.com/dask/dask) ⭐ 13,930 | 🐛 1,350 | 🌐 Python | 📅 2026-09-29 - :star: 11203 :fork\_and\_knife: 1633 - A flexible parallel computing library for analytic computing.
+  * [:octocat: dask](https://github.com/dask/dask) ⭐ 13,931 | 🐛 1,350 | 🌐 Python | 📅 2026-09-29 - :star: 11203 :fork\_and\_knife: 1633 - A flexible parallel computing library for analytic computing.
   * [:octocat: mrjob](https://github.com/Yelp/mrjob) ⭐ 2,613 | 🐛 217 | 🌐 Python | 📅 2026-04-02 - :star: 2604 :fork\_and\_knife: 606 - Run MapReduce jobs on Hadoop or Amazon Web Services.
   * [:earth\_americas: PySpark](https://pypi.org/project/pyspark/) - [Apache Spark](https://spark.apache.org/) Python API.
 * Stream Processing
@@ -545,7 +545,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 *Libraries for downloading.*
 
-* [:octocat: akshare](https://github.com/jindaxiang/akshare) ⭐ 22,814 | 🐛 0 | 🌐 Python | 📅 2026-09-30 - :star: 6813 :fork\_and\_knife: 1504 - A financial data interface library, built for human beings!
+* [:octocat: akshare](https://github.com/jindaxiang/akshare) ⭐ 22,815 | 🐛 0 | 🌐 Python | 📅 2026-09-30 - :star: 6813 :fork\_and\_knife: 1504 - A financial data interface library, built for human beings!
 * [:octocat: s3cmd](https://github.com/s3tools/s3cmd) ⭐ 4,916 | 🐛 311 | 🌐 Python | 📅 2025-10-22 - :star: 4208 :fork\_and\_knife: 898 - A command line tool for managing Amazon S3 and CloudFront.
 * [:octocat: s4cmd](https://github.com/bloomreach/s4cmd) ⭐ 1,397 | 🐛 117 | 🌐 Python | 📅 2024-07-21 - :star: 1301 :fork\_and\_knife: 207 - Super S3 command line tool, good for higher performance.
 * [:earth\_americas: you-get](https://you-get.org/) - A YouTube/Youku/Niconico video downloader written in Python 3.
@@ -569,7 +569,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 ## Editor Plugins and IDEs
 
 * Emacs
-  * [:octocat: elpy](https://github.com/jorgenschaefer/elpy) ⭐ 1,932 | 🐛 394 | 🌐 Emacs Lisp | 📅 2026-07-15 - :star: 1848 :fork\_and\_knife: 255 - Emacs Python Development Environment.
+  * [:octocat: elpy](https://github.com/jorgenschaefer/elpy) ⭐ 1,931 | 🐛 394 | 🌐 Emacs Lisp | 📅 2026-07-15 - :star: 1848 :fork\_and\_knife: 255 - Emacs Python Development Environment.
 * Sublime Text
   * [:octocat: anaconda](https://github.com/DamnWidget/anaconda) ⭐ 2,242 | 🐛 185 | 🌐 Python | 📅 2022-08-12 - :star: 2192 :fork\_and\_knife: 264 - Anaconda turns your Sublime Text 3 in a full featured Python development IDE.
   * [:octocat: SublimeJEDI](https://github.com/srusskih/SublimeJEDI) ⭐ 927 | 🐛 35 | 🌐 Python | 📅 2022-08-30 - :star: 940 :fork\_and\_knife: 113 - A Sublime Text plugin to the awesome auto-complete library Jedi.
@@ -603,7 +603,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 *Libraries for Python version and virtual environment management.*
 
-* [:octocat: pyenv](https://github.com/pyenv/pyenv) ⭐ 45,121 | 🐛 52 | 🌐 Shell | 📅 2026-10-03 - :star: 32557 :fork\_and\_knife: 2819 - Simple Python version management.
+* [:octocat: pyenv](https://github.com/pyenv/pyenv) ⭐ 45,122 | 🐛 51 | 🌐 Shell | 📅 2026-10-03 - :star: 32557 :fork\_and\_knife: 2819 - Simple Python version management.
 * [:octocat: virtualenv](https://github.com/pypa/virtualenv) ⭐ 5,052 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - :star: 4501 :fork\_and\_knife: 1014 - A tool to create isolated Python environments.
 
 ## Files
@@ -634,7 +634,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 * [:octocat: django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) ⭐ 5,153 | 🐛 75 | 🌐 Python | 📅 2026-07-29 - :star: 4739 :fork\_and\_knife: 733 - A Django app which lets you create beautiful forms in a very elegant and DRY way.
 * [:octocat: django-bootstrap3](https://github.com/dyve/django-bootstrap3) ⭐ 2,327 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - :star: 2317 :fork\_and\_knife: 694 - Bootstrap 3 integration with Django.
 * [:octocat: WTForms](https://github.com/wtforms/wtforms) ⭐ 1,582 | 🐛 26 | 🌐 Python | 📅 2026-06-29 - :star: 1405 :fork\_and\_knife: 386 - A flexible forms validation and rendering library.
-* [:octocat: django-bootstrap4](https://github.com/zostera/django-bootstrap4) ⭐ 1,023 | 🐛 3 | 🌐 Python | 📅 2026-09-21 - :star: 1002 :fork\_and\_knife: 257 - Bootstrap 4 integration with Django.
+* [:octocat: django-bootstrap4](https://github.com/zostera/django-bootstrap4) ⭐ 1,022 | 🐛 3 | 🌐 Python | 📅 2026-09-21 - :star: 1002 :fork\_and\_knife: 257 - Bootstrap 4 integration with Django.
 * [:octocat: Deform](https://github.com/Pylons/deform) ⭐ 423 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-16 - :star: 398 :fork\_and\_knife: 162 - Python HTML form generation library influenced by the formish form generation library.
 * [:octocat: django-remote-forms](https://github.com/WiserTogether/django-remote-forms) ⭐ 219 | 🐛 22 | 🌐 Python | 📅 2024-05-07 - :star: 222 :fork\_and\_knife: 113 - A platform independent Django form serializer.
 
@@ -643,7 +643,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 *Functional Programming with Python.*
 
 * [:octocat: Toolz](https://github.com/pytoolz/toolz) ⭐ 5,157 | 🐛 138 | 🌐 Python | 📅 2026-09-18 - :star: 4280 :fork\_and\_knife: 251 - A collection of functional utilities for iterators, functions, and dictionaries.
-* [:octocat: returns](https://github.com/dry-python/returns) ⭐ 4,372 | 🐛 81 | 🌐 Python | 📅 2026-10-02 - :star: 2827 :fork\_and\_knife: 98 - A set of type-safe monads, transformers, and composition utilities.
+* [:octocat: returns](https://github.com/dry-python/returns) ⭐ 4,373 | 🐛 81 | 🌐 Python | 📅 2026-10-02 - :star: 2827 :fork\_and\_knife: 98 - A set of type-safe monads, transformers, and composition utilities.
 * [:octocat: Coconut](https://github.com/evhub/coconut) ⭐ 4,355 | 🐛 91 | 🌐 Python | 📅 2026-02-16 - :star: 3767 :fork\_and\_knife: 112 - A variant of Python built for simple, elegant, Pythonic functional programming.
 * [:octocat: more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,097 | 🐛 9 | 🌐 Python | 📅 2026-09-29 - :star: 3124 :fork\_and\_knife: 251 - More routines for operating on iterables, beyond `itertools`.
 * [:octocat: funcy](https://github.com/Suor/funcy) ⭐ 3,510 | 🐛 7 | 🌐 Python | 📅 2026-09-27 - :star: 3104 :fork\_and\_knife: 141 - A fancy and practical functional tools.
@@ -656,7 +656,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 * [:octocat: Gooey](https://github.com/chriskiehl/Gooey) ⭐ 21,901 | 🐛 180 | 🌐 Python | 📅 2026-09-12 - :star: 17711 :fork\_and\_knife: 945 - Turn command line programs into a full GUI application with one line.
 * [:octocat: DearPyGui](https://github.com/RaylockLLC/DearPyGui/) ⭐ 15,638 | 🐛 328 | 🌐 C++ | 📅 2026-05-13 - :star: 10714 :fork\_and\_knife: 586 - A Simple GPU accelerated Python GUI framework
-* [:octocat: PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) ⭐ 13,822 | 🐛 708 | 🌐 Python | 📅 2026-08-30 - :star: 11811 :fork\_and\_knife: 1746 - Wrapper for tkinter, Qt, WxPython and Remi.
+* [:octocat: PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) ⭐ 13,823 | 🐛 708 | 🌐 Python | 📅 2026-08-30 - :star: 11811 :fork\_and\_knife: 1746 - Wrapper for tkinter, Qt, WxPython and Remi.
 * [:octocat: Eel](https://github.com/ChrisKnott/Eel) ⚠️ Archived - :star: 5709 :fork\_and\_knife: 558 - A library for making simple Electron-like offline HTML/JS GUI apps.
 * [:octocat: pywebview](https://github.com/r0x0r/pywebview/) ⭐ 6,075 | 🐛 19 | 🌐 Python | 📅 2026-10-01 - :star: 3664 :fork\_and\_knife: 477 - A lightweight cross-platform native wrapper around a webview component.
 * [:octocat: Toga](https://github.com/pybee/toga) ⭐ 5,413 | 🐛 311 | 🌐 Python | 📅 2026-10-02 - :star: 3542 :fork\_and\_knife: 598 - A Python native, OS native GUI toolkit.
@@ -726,9 +726,9 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 *Libraries for working with HTTP.*
 
 * [:octocat: requests](https://github.com/psf/requests) ⭐ 54,371 | 🐛 242 | 🌐 Python | 📅 2026-09-28 - :star: 49914 :fork\_and\_knife: 9140 - HTTP Requests for Humans.
-* [:octocat: httpx](https://github.com/encode/httpx) ⭐ 15,524 | 🐛 140 | 🌐 Python | 📅 2026-10-02 - :star: 10783 :fork\_and\_knife: 709 - A next generation HTTP client for Python.
+* [:octocat: httpx](https://github.com/encode/httpx) ⭐ 15,525 | 🐛 140 | 🌐 Python | 📅 2026-10-02 - :star: 10783 :fork\_and\_knife: 709 - A next generation HTTP client for Python.
 * [:octocat: grequests](https://github.com/spyoungtech/grequests) ⭐ 4,572 | 🐛 11 | 🌐 Python | 📅 2024-08-08 - :star: 4272 :fork\_and\_knife: 334 - requests + gevent for asynchronous HTTP requests.
-* [:octocat: urllib3](https://github.com/shazow/urllib3) ⭐ 4,068 | 🐛 253 | 🌐 Python | 📅 2026-10-02 - :star: 3447 :fork\_and\_knife: 1080 - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.
+* [:octocat: urllib3](https://github.com/shazow/urllib3) ⭐ 4,069 | 🐛 253 | 🌐 Python | 📅 2026-10-02 - :star: 3447 :fork\_and\_knife: 1080 - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.
 * [:octocat: treq](https://github.com/twisted/treq) ⭐ 604 | 🐛 54 | 🌐 Python | 📅 2026-08-19 - :star: 556 :fork\_and\_knife: 142 - Python requests like API built on top of Twisted's HTTP client.
 * [:octocat: httplib2](https://github.com/httplib2/httplib2) ⭐ 511 | 🐛 63 | 🌐 Python | 📅 2026-06-26 - :star: 469 :fork\_and\_knife: 196 - Comprehensive HTTP client library.
 
@@ -748,7 +748,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 *Libraries for manipulating images.*
 
-* [:octocat: pillow](https://github.com/python-pillow/Pillow) ⭐ 13,877 | 🐛 149 | 🌐 Python | 📅 2026-10-03 - :star: 10982 :fork\_and\_knife: 2076 - Pillow is the friendly [PIL](http://www.pythonware.com/products/pil/) fork.
+* [:octocat: pillow](https://github.com/python-pillow/Pillow) ⭐ 13,878 | 🐛 150 | 🌐 Python | 📅 2026-10-03 - :star: 10982 :fork\_and\_knife: 2076 - Pillow is the friendly [PIL](http://www.pythonware.com/products/pil/) fork.
 * [:octocat: thumbor](https://github.com/thumbor/thumbor) ⭐ 10,520 | 🐛 4 | 🌐 Python | 📅 2026-10-03 - :star: 9558 :fork\_and\_knife: 818 - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.
 * [:octocat: pywal](https://github.com/dylanaraps/pywal) ⚠️ Archived - :star: 7370 :fork\_and\_knife: 293 - A tool that generates color schemes from images.
 * [:octocat: python-qrcode](https://github.com/lincolnloop/python-qrcode) ⭐ 4,948 | 🐛 58 | 🌐 Python | 📅 2026-03-25 - :star: 3761 :fork\_and\_knife: 600 - A pure Python QR Code generator.
@@ -767,11 +767,11 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 *Implementations of Python.*
 
-* [:octocat: CPython](https://github.com/python/cpython) ⭐ 77,392 | 🐛 9,739 | 🌐 Python | 📅 2026-10-02 - :star: 54512 :fork\_and\_knife: 27255 - **Default, most widely used implementation of the Python programming language written in C.**
-* [:octocat: MicroPython](https://github.com/micropython/micropython) ⭐ 22,104 | 🐛 1,532 | 🌐 C | 📅 2026-10-02 - :star: 16880 :fork\_and\_knife: 6617 - A lean and efficient Python programming language implementation.
+* [:octocat: CPython](https://github.com/python/cpython) ⭐ 77,392 | 🐛 9,741 | 🌐 Python | 📅 2026-10-02 - :star: 54512 :fork\_and\_knife: 27255 - **Default, most widely used implementation of the Python programming language written in C.**
+* [:octocat: MicroPython](https://github.com/micropython/micropython) ⭐ 22,105 | 🐛 1,532 | 🌐 C | 📅 2026-10-02 - :star: 16880 :fork\_and\_knife: 6617 - A lean and efficient Python programming language implementation.
 * [:octocat: Grumpy](https://github.com/google/grumpy) ⚠️ Archived - :star: 10579 :fork\_and\_knife: 673 - More compiler than interpreter as more powerful CPython2.7 replacement (alpha).
 * [:octocat: Pyston](https://github.com/dropbox/pyston) ⚠️ Archived - :star: 4923 :fork\_and\_knife: 304 - A Python implementation using JIT techniques.
-* [:octocat: IronPython](https://github.com/IronLanguages/ironpython3) ⭐ 2,766 | 🐛 307 | 🌐 C# | 📅 2026-10-03 - :star: 2168 :fork\_and\_knife: 261 - Implementation of the Python programming language written in C#.
+* [:octocat: IronPython](https://github.com/IronLanguages/ironpython3) ⭐ 2,765 | 🐛 307 | 🌐 C# | 📅 2026-10-03 - :star: 2168 :fork\_and\_knife: 261 - Implementation of the Python programming language written in C#.
 * [:octocat: PeachPy](https://github.com/Maratyszcza/PeachPy) ⭐ 2,063 | 🐛 28 | 🌐 Python | 📅 2023-09-25 - :star: 1778 :fork\_and\_knife: 161 - x86-64 assembler embedded in Python.
 * [:octocat: Pyjion](https://github.com/Microsoft/Pyjion) ⚠️ Archived - :star: 1579 :fork\_and\_knife: 132 - A JIT for Python based upon CoreCLR.
 * [:octocat: Stackless Python](https://github.com/stackless-dev/stackless) ⚠️ Archived - :star: 940 :fork\_and\_knife: 61 - An enhanced version of the Python programming language.
@@ -817,7 +817,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 *Libraries for generating and working with logs.*
 
-* [:octocat: loguru](https://github.com/Delgan/loguru) ⭐ 24,140 | 🐛 265 | 🌐 Python | 📅 2026-10-01 - :star: 15349 :fork\_and\_knife: 626 - Library which aims to bring enjoyable logging in Python.
+* [:octocat: loguru](https://github.com/Delgan/loguru) ⭐ 24,141 | 🐛 265 | 🌐 Python | 📅 2026-10-01 - :star: 15349 :fork\_and\_knife: 626 - Library which aims to bring enjoyable logging in Python.
 * [:octocat: sentry-python](https://github.com/getsentry/sentry-python) ⭐ 2,209 | 🐛 375 | 🌐 Python | 📅 2026-10-03 - :star: 1566 :fork\_and\_knife: 394 - Sentry SDK for Python.
 * [:earth\_americas: logbook](http://logbook.readthedocs.io/en/stable/) - Logging replacement for Python.
 * [:earth\_americas: logging](https://docs.python.org/3/library/logging.html) - (Python standard library) Logging facility for Python.
@@ -825,15 +825,15 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 ## Machine Learning
 
-*Libraries for Machine Learning. Also see [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python) ⭐ 74,511 | 🐛 22 | 🌐 Python | 📅 2026-09-30.*
+*Libraries for Machine Learning. Also see [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python) ⭐ 74,514 | 🐛 22 | 🌐 Python | 📅 2026-09-30.*
 
 * [:octocat: MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,780 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 - :star: 17267 :fork\_and\_knife: 2206 - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 * [:octocat: gym](https://github.com/openai/gym) ⚠️ Archived - :star: 32370 :fork\_and\_knife: 8538 - A toolkit for developing and comparing reinforcement learning algorithms.
-* [:octocat: xgboost](https://github.com/dmlc/xgboost) ⭐ 28,816 | 🐛 447 | 🌐 C++ | 📅 2026-10-02 - :star: 24378 :fork\_and\_knife: 8624 - A scalable, portable, and distributed gradient boosting library.
+* [:octocat: xgboost](https://github.com/dmlc/xgboost) ⭐ 28,817 | 🐛 447 | 🌐 C++ | 📅 2026-10-02 - :star: 24378 :fork\_and\_knife: 8624 - A scalable, portable, and distributed gradient boosting library.
 * [:octocat: H2O](https://github.com/h2oai/h2o-3) ⭐ 7,510 | 🐛 2,857 | 🌐 Jupyter Notebook | 📅 2026-09-25 - :star: 6383 :fork\_and\_knife: 1984 - Open Source Fast Scalable Machine Learning Platform.
 * [:octocat: NuPIC](https://github.com/numenta/nupic) ⭐ 6,354 | 🐛 465 | 🌐 Python | 📅 2024-12-03 - :star: 6325 :fork\_and\_knife: 1583 - Numenta Platform for Intelligent Computing.
 * [:octocat: Metrics](https://github.com/benhamner/Metrics) ⭐ 1,651 | 🐛 36 | 🌐 Python | 📅 2023-01-11 - :star: 1594 :fork\_and\_knife: 453 - Machine learning evaluation metrics.
-* [:octocat: vowpal\_porpoise](https://github.com/josephreisinger/vowpal_porpoise) ⭐ 174 | 🐛 8 | 🌐 Python | 📅 2020-01-07 - :star: 164 :fork\_and\_knife: 30 - A lightweight Python wrapper for [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/) ⭐ 8,726 | 🐛 0 | 🌐 C++ | 📅 2026-09-28.
+* [:octocat: vowpal\_porpoise](https://github.com/josephreisinger/vowpal_porpoise) ⭐ 174 | 🐛 8 | 🌐 Python | 📅 2020-01-07 - :star: 164 :fork\_and\_knife: 30 - A lightweight Python wrapper for [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/) ⭐ 8,727 | 🐛 0 | 🌐 C++ | 📅 2026-09-28.
 * [:earth\_americas: scikit-learn](http://scikit-learn.org/) - The most popular Python library for Machine Learning.
 * [:earth\_americas: Spark ML](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library.
 
@@ -852,9 +852,9 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 *Useful libraries or tools that don't fit in the categories above.*
 
 * [:octocat: magenta](https://github.com/magenta/magenta) ⚠️ Archived - :star: 18574 :fork\_and\_knife: 3753 - A tool to generate music and art using artificial intelligence.
-* [:octocat: boltons](https://github.com/mahmoud/boltons) ⭐ 6,932 | 🐛 108 | 🌐 Python | 📅 2026-09-23 - :star: 6232 :fork\_and\_knife: 345 - A set of pure-Python utilities.
+* [:octocat: boltons](https://github.com/mahmoud/boltons) ⭐ 6,932 | 🐛 110 | 🌐 Python | 📅 2026-09-23 - :star: 6232 :fork\_and\_knife: 345 - A set of pure-Python utilities.
 * [:octocat: itsdangerous](https://github.com/pallets/itsdangerous) ⭐ 3,137 | 🐛 5 | 🌐 Python | 📅 2025-06-14 - :star: 2700 :fork\_and\_knife: 219 - Various helpers to pass trusted data to untrusted environments.
-* [:octocat: blinker](https://github.com/jek/blinker) ⭐ 2,098 | 🐛 0 | 🌐 Python | 📅 2025-11-19 - :star: 1538 :fork\_and\_knife: 177 - A fast Python in-process signal/event dispatching system.
+* [:octocat: blinker](https://github.com/jek/blinker) ⭐ 2,099 | 🐛 0 | 🌐 Python | 📅 2025-11-19 - :star: 1538 :fork\_and\_knife: 177 - A fast Python in-process signal/event dispatching system.
 * [:octocat: pluginbase](https://github.com/mitsuhiko/pluginbase) ⭐ 1,140 | 🐛 5 | 🌐 Python | 📅 2021-05-16 - :star: 1063 :fork\_and\_knife: 145 - A simple but flexible plugin system for Python.
 * [:earth\_americas: tryton](http://www.tryton.org/) - A general purpose business framework.
 
@@ -873,7 +873,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
   * [:earth\_americas: nltk](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
   * [:earth\_americas: spacy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
 * Chinese
-  * [:octocat: funNLP](https://github.com/fighting41love/funNLP) ⭐ 83,630 | 🐛 54 | 🌐 Python | 📅 2024-05-10 - :star: 52697 :fork\_and\_knife: 12982 - A collection of tools and datasets for Chinese NLP.
+  * [:octocat: funNLP](https://github.com/fighting41love/funNLP) ⭐ 83,632 | 🐛 54 | 🌐 Python | 📅 2024-05-10 - :star: 52697 :fork\_and\_knife: 12982 - A collection of tools and datasets for Chinese NLP.
   * [:octocat: jieba](https://github.com/fxsjy/jieba) ⭐ 35,174 | 🐛 700 | 🌐 Python | 📅 2024-08-21 - :star: 30917 :fork\_and\_knife: 6699 - The most popular Chinese text segmentation library.
   * [:octocat: pkuseg-python](https://github.com/lancopku/pkuseg-python) ⭐ 6,708 | 🐛 135 | 🌐 Python | 📅 2022-11-05 - :star: 6197 :fork\_and\_knife: 972 - A toolkit for Chinese word segmentation in various domains.
   * [:octocat: snownlp](https://github.com/isnowfy/snownlp) ⭐ 6,634 | 🐛 44 | 🌐 Python | 📅 2020-01-19 - :star: 6131 :fork\_and\_knife: 1360 - A library for processing Chinese text.
@@ -899,7 +899,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 * Relational Databases
   * [:octocat: peewee](https://github.com/coleifer/peewee) ⭐ 11,996 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - :star: 10193 :fork\_and\_knife: 1371 - A small, expressive ORM.
-  * [:octocat: dataset](https://github.com/pudo/dataset) ⭐ 4,873 | 🐛 23 | 🌐 Python | 📅 2026-07-22 - :star: 4589 :fork\_and\_knife: 296 - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
+  * [:octocat: dataset](https://github.com/pudo/dataset) ⭐ 4,874 | 🐛 23 | 🌐 Python | 📅 2026-07-22 - :star: 4589 :fork\_and\_knife: 296 - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
   * [:octocat: pony](https://github.com/ponyorm/pony/) ⭐ 3,819 | 🐛 358 | 🌐 Python | 📅 2026-08-10 - :star: 3270 :fork\_and\_knife: 237 - ORM that provides a generator-oriented interface to SQL.
   * [:octocat: orm](https://github.com/encode/orm) ⚠️ Archived - :star: 1737 :fork\_and\_knife: 99 - An async ORM.
   * [:octocat: orator](https://github.com/sdispater/orator) ⚠️ Archived - :star: 1405 :fork\_and\_knife: 168 -  The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
@@ -920,8 +920,8 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 * [:octocat: poetry](https://github.com/sdispater/poetry) ⭐ 34,307 | 🐛 588 | 🌐 Python | 📅 2026-09-28 - :star: 25742 :fork\_and\_knife: 2003 - Python dependency management and packaging made easy.
 * [:octocat: conda](https://github.com/conda/conda/) ⭐ 7,522 | 🐛 651 | 🌐 Python | 📅 2026-10-02 - :star: 5576 :fork\_and\_knife: 1392 - Cross-platform, Python-agnostic binary package manager.
 * [:earth\_americas: pip](https://pip.pypa.io/en/stable/) - The package installer for Python.
-  * [:octocat: pipx](https://github.com/pypa/pipx) ⭐ 12,978 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - :star: 6659 :fork\_and\_knife: 307 - A package manager exclusive for python CLIs built on top of pip.
-  * [:octocat: pip-tools](https://github.com/jazzband/pip-tools) ⭐ 8,005 | 🐛 174 | 🌐 Python | 📅 2026-09-28 - :star: 6945 :fork\_and\_knife: 585 - A set of tools to keep your pinned Python dependencies fresh.
+  * [:octocat: pipx](https://github.com/pypa/pipx) ⭐ 12,979 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - :star: 6659 :fork\_and\_knife: 307 - A package manager exclusive for python CLIs built on top of pip.
+  * [:octocat: pip-tools](https://github.com/jazzband/pip-tools) ⭐ 8,005 | 🐛 175 | 🌐 Python | 📅 2026-09-28 - :star: 6945 :fork\_and\_knife: 585 - A set of tools to keep your pinned Python dependencies fresh.
   * [:earth\_americas: PyPI](https://pypi.org/)
 
 ## Package Repositories
@@ -929,7 +929,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 *Local PyPI repository server and proxies.*
 
 * [:octocat: warehouse](https://github.com/pypa/warehouse) ⭐ 4,162 | 🐛 579 | 🌐 Python | 📅 2026-10-03 - :star: 3312 :fork\_and\_knife: 963 - Next generation Python Package Repository (PyPI).
-* [:octocat: devpi](https://github.com/devpi/devpi) ⭐ 1,232 | 🐛 98 | 🌐 Python | 📅 2026-09-28 - :star: 720 :fork\_and\_knife: 122 - PyPI server and packaging/testing/release tool.
+* [:octocat: devpi](https://github.com/devpi/devpi) ⭐ 1,233 | 🐛 98 | 🌐 Python | 📅 2026-09-28 - :star: 720 :fork\_and\_knife: 122 - PyPI server and packaging/testing/release tool.
 * [:octocat: bandersnatch](https://github.com/pypa/bandersnatch/) ⭐ 553 | 🐛 30 | 🌐 Python | 📅 2026-09-28 - :star: 374 :fork\_and\_knife: 142 - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 * [:octocat: localshop](https://github.com/jazzband/localshop) ⭐ 400 | 🐛 47 | 🌐 Less | 📅 2023-04-21 - :star: 391 :fork\_and\_knife: 114 - Local PyPI server (custom packages and auto-mirroring of pypi).
 
@@ -937,7 +937,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 *Frameworks and tools for penetration testing.*
 
-* [:octocat: sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,587 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - :star: 27518 :fork\_and\_knife: 5332 - Automatic SQL injection and database takeover tool.
+* [:octocat: sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,588 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - :star: 27518 :fork\_and\_knife: 5332 - Automatic SQL injection and database takeover tool.
 * [:octocat: setoolkit](https://github.com/trustedsec/social-engineer-toolkit) ⭐ 15,351 | 🐛 15 | 🌐 Python | 📅 2026-06-04 - :star: 9097 :fork\_and\_knife: 2533 - A toolkit for social engineering.
 * [:octocat: fsociety](https://github.com/Manisso/fsociety) ⭐ 12,325 | 🐛 95 | 🌐 Python | 📅 2026-07-21 - :star: 8686 :fork\_and\_knife: 1847 - A Penetration testing framework.
 
@@ -960,10 +960,10 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 *Libraries for building recommender systems.*
 
-* [:octocat: annoy](https://github.com/spotify/annoy) ⭐ 14,310 | 🐛 89 | 🌐 C++ | 📅 2025-10-29 - :star: 11607 :fork\_and\_knife: 1109 - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
-* [:octocat: Surprise](https://github.com/NicolasHug/Surprise) ⭐ 6,819 | 🐛 80 | 🌐 Python | 📅 2026-05-30 - :star: 5874 :fork\_and\_knife: 987 - A scikit for building and analyzing recommender systems.
+* [:octocat: annoy](https://github.com/spotify/annoy) ⭐ 14,311 | 🐛 89 | 🌐 C++ | 📅 2025-10-29 - :star: 11607 :fork\_and\_knife: 1109 - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
+* [:octocat: Surprise](https://github.com/NicolasHug/Surprise) ⭐ 6,820 | 🐛 80 | 🌐 Python | 📅 2026-05-30 - :star: 5874 :fork\_and\_knife: 987 - A scikit for building and analyzing recommender systems.
 * [:octocat: lightfm](https://github.com/lyst/lightfm) ⭐ 5,113 | 🐛 166 | 🌐 Python | 📅 2024-07-24 - :star: 4383 :fork\_and\_knife: 673 - A Python implementation of a number of popular recommendation algorithms.
-* [:octocat: implicit](https://github.com/benfred/implicit) ⭐ 3,826 | 🐛 97 | 🌐 Python | 📅 2026-05-08 - :star: 3220 :fork\_and\_knife: 601 - A fast Python implementation of collaborative filtering for implicit datasets.
+* [:octocat: implicit](https://github.com/benfred/implicit) ⭐ 3,827 | 🐛 97 | 🌐 Python | 📅 2026-05-08 - :star: 3220 :fork\_and\_knife: 601 - A fast Python implementation of collaborative filtering for implicit datasets.
 * [:octocat: spotlight](https://github.com/maciejkula/spotlight) ⭐ 3,045 | 🐛 73 | 🌐 Python | 📅 2022-12-21 - :star: 2881 :fork\_and\_knife: 419 - Deep recommender models using PyTorch.
 * [:octocat: libffm](https://github.com/guestwalk/libffm) ⚠️ Archived - :star: 1577 :fork\_and\_knife: 464 - A library for Field-aware Factorization Machine (FFM).
 * [:octocat: tensorrec](https://github.com/jfkirk/tensorrec) ⭐ 1,300 | 🐛 40 | 🌐 Python | 📅 2023-05-22 - :star: 1236 :fork\_and\_knife: 224 - A Recommendation Engine Framework in TensorFlow.
@@ -991,7 +991,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 * Pyramid
   * [:octocat: cornice](https://github.com/Cornices/cornice) ⭐ 389 | 🐛 56 | 🌐 Python | 📅 2026-06-04 - :star: 374 :fork\_and\_knife: 153 - A RESTful framework for Pyramid.
 * Framework agnostic
-  * [:octocat: fastapi](https://github.com/tiangolo/fastapi) ⭐ 102,773 | 🐛 84 | 🌐 Python | 📅 2026-10-02 - :star: 60384 :fork\_and\_knife: 5059 - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
+  * [:octocat: fastapi](https://github.com/tiangolo/fastapi) ⭐ 102,778 | 🐛 84 | 🌐 Python | 📅 2026-10-02 - :star: 60384 :fork\_and\_knife: 5059 - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
   * [:octocat: sanic](https://github.com/huge-success/sanic) ⭐ 18,636 | 🐛 154 | 🌐 Python | 📅 2026-07-29 - :star: 17185 :fork\_and\_knife: 1523 - A Python 3.6+ web server and web framework that's written to go fast.
   * [:octocat: falcon](https://github.com/falconry/falcon) ⭐ 9,804 | 🐛 156 | 🌐 Python | 📅 2026-09-30 - :star: 9190 :fork\_and\_knife: 917 - A high-performance framework for building cloud APIs and web app backends.
   * [:octocat: hug](https://github.com/hugapi/hug) ⭐ 6,879 | 🐛 189 | 🌐 Python | 📅 2024-07-04 - :star: 6729 :fork\_and\_knife: 388 - A Python 3 framework for cleanly exposing APIs.
@@ -1022,7 +1022,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 * [:octocat: statsmodels](https://github.com/statsmodels/statsmodels) ⭐ 11,668 | 🐛 2,810 | 🌐 Python | 📅 2026-10-02 - :star: 8679 :fork\_and\_knife: 2735 - Statistical modeling and econometrics in Python.
 * [:octocat: PyMC](https://github.com/pymc-devs/pymc3) ⭐ 9,790 | 🐛 518 | 🌐 Python | 📅 2026-10-02 - :star: 7663 :fork\_and\_knife: 1797 - Markov Chain Monte Carlo sampling toolkit.
 * [:octocat: Karate Club](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,289 | 🐛 12 | 🌐 Python | 📅 2024-07-17 - :star: 1931 :fork\_and\_knife: 231 - Unsupervised machine learning toolbox for graph structured data.
-* [:octocat: ObsPy](https://github.com/obspy/obspy/wiki/) ⭐ 1,337 | 🐛 318 | 🌐 Python | 📅 2026-09-29 - :star: 1046 :fork\_and\_knife: 520 - A Python toolbox for seismology.
+* [:octocat: ObsPy](https://github.com/obspy/obspy/wiki/) ⭐ 1,338 | 🐛 318 | 🌐 Python | 📅 2026-09-29 - :star: 1046 :fork\_and\_knife: 520 - A Python toolbox for seismology.
 * [:octocat: bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) ⭐ 1,031 | 🐛 133 | 🌐 Python | 📅 2024-08-24 - :star: 940 :fork\_and\_knife: 357 - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
 * [:octocat: bccb](https://github.com/chapmanb/bcbb) ⭐ 646 | 🐛 20 | 🌐 Python | 📅 2025-02-05 - :star: 572 :fork\_and\_knife: 239 - Collection of useful code related to biological analysis.
 * [:earth\_americas: astropy](http://www.astropy.org/) - A community Python library for Astronomy.
@@ -1044,7 +1044,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 *Libraries and software for indexing and performing search queries on data.*
 
 * [:octocat: elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) ⚠️ Archived - :star: 3678 :fork\_and\_knife: 794 - The official high-level Python client for Elasticsearch.
-* [:octocat: django-haystack](https://github.com/django-haystack/django-haystack) ⭐ 3,725 | 🐛 582 | 🌐 Python | 📅 2026-09-16 - :star: 3441 :fork\_and\_knife: 1314 - Modular search for Django.
+* [:octocat: django-haystack](https://github.com/django-haystack/django-haystack) ⭐ 3,726 | 🐛 582 | 🌐 Python | 📅 2026-09-16 - :star: 3441 :fork\_and\_knife: 1314 - Modular search for Django.
 * [:octocat: pysolr](https://github.com/django-haystack/pysolr) ⭐ 702 | 🐛 19 | 🌐 Python | 📅 2026-10-02 - :star: 641 :fork\_and\_knife: 331 - A lightweight Python wrapper for [Apache Solr](https://lucene.apache.org/solr/).
 * [:earth\_americas: elasticsearch-py](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html) - The official low-level Python client for [Elasticsearch](https://www.elastic.co/products/elasticsearch).
 * [:earth\_americas: whoosh](http://whoosh.readthedocs.io/en/latest/) - A fast, pure Python search engine library.
@@ -1078,7 +1078,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 * General
   * [:octocat: tablib](https://github.com/jazzband/tablib) ⭐ 4,757 | 🐛 62 | 🌐 Python | 📅 2026-09-11 - :star: 4257 :fork\_and\_knife: 578 - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 * Office
-  * [:octocat: python-docx](https://github.com/python-openxml/python-docx) ⭐ 5,732 | 🐛 536 | 🌐 Python | 📅 2026-08-01 - :star: 3688 :fork\_and\_knife: 979 - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
+  * [:octocat: python-docx](https://github.com/python-openxml/python-docx) ⭐ 5,733 | 🐛 536 | 🌐 Python | 📅 2026-08-01 - :star: 3688 :fork\_and\_knife: 979 - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
   * [:octocat: XlsxWriter](https://github.com/jmcnamara/XlsxWriter) ⭐ 3,978 | 🐛 32 | 🌐 Python | 📅 2026-08-04 - :star: 3286 :fork\_and\_knife: 612 - A Python module for creating Excel .xlsx files.
   * [:octocat: python-pptx](https://github.com/scanny/python-pptx) ⭐ 3,549 | 🐛 542 | 🌐 Python | 📅 2024-08-07 - :star: 1835 :fork\_and\_knife: 434 - Python library for creating and updating PowerPoint (.pptx) files.
   * [:octocat: unoconv](https://github.com/unoconv/unoconv) ⚠️ Archived - :star: 2428 :fork\_and\_knife: 404 - Convert between any document format supported by LibreOffice/OpenOffice.
@@ -1150,7 +1150,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
   * [:earth\_americas: mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
   * [:earth\_americas: tox](https://tox.readthedocs.io/en/latest/) - Auto builds and tests distributions in multiple Python versions
 * GUI / Web Testing
-  * [:octocat: locust](https://github.com/locustio/locust) ⭐ 28,195 | 🐛 8 | 🌐 Python | 📅 2026-09-26 - :star: 21719 :fork\_and\_knife: 2720 - Scalable user load testing tool written in Python.
+  * [:octocat: locust](https://github.com/locustio/locust) ⭐ 28,195 | 🐛 6 | 🌐 Python | 📅 2026-10-03 - :star: 21719 :fork\_and\_knife: 2720 - Scalable user load testing tool written in Python.
   * [:octocat: PyAutoGUI](https://github.com/asweigart/pyautogui) ⭐ 12,724 | 🐛 584 | 🌐 Python | 📅 2024-08-20 - :star: 8333 :fork\_and\_knife: 1086 - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
   * [:octocat: Schemathesis](https://github.com/kiwicom/schemathesis) ⭐ 3,645 | 🐛 13 | 🌐 Python | 📅 2026-10-02 - :star: 1785 :fork\_and\_knife: 131 - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
   * [:octocat: splinter](https://github.com/cobrateam/splinter) ⭐ 2,750 | 🐛 59 | 🌐 Python | 📅 2025-08-16 - :star: 2642 :fork\_and\_knife: 509 - Open source tool for testing web applications.
@@ -1166,13 +1166,13 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
   * [:earth\_americas: doublex](https://pypi.org/project/doublex/) - Powerful test doubles framework for Python.
   * [:earth\_americas: mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
 * Object Factories
-  * [:octocat: factory\_boy](https://github.com/FactoryBoy/factory_boy) ⭐ 3,812 | 🐛 209 | 🌐 Python | 📅 2026-01-01 - :star: 3149 :fork\_and\_knife: 378 - A test fixtures replacement for Python.
+  * [:octocat: factory\_boy](https://github.com/FactoryBoy/factory_boy) ⭐ 3,810 | 🐛 209 | 🌐 Python | 📅 2026-01-01 - :star: 3149 :fork\_and\_knife: 378 - A test fixtures replacement for Python.
   * [:octocat: mixer](https://github.com/klen/mixer) ⭐ 954 | 🐛 49 | 🌐 Python | 📅 2024-03-08 - :star: 907 :fork\_and\_knife: 95 - Another fixtures replacement. Supported Django, Flask, SQLAlchemy, Peewee and etc.
   * [:octocat: model\_mommy](https://github.com/vandersonmota/model_mommy) ⚠️ Archived - :star: 914 :fork\_and\_knife: 147 - Creating random fixtures for testing in Django.
 * Code Coverage
   * [:earth\_americas: coverage](https://pypi.org/project/coverage/) - Code coverage measurement.
 * Fake Data
-  * [:octocat: faker](https://github.com/joke2k/faker) ⭐ 19,422 | 🐛 41 | 🌐 Python | 📅 2026-09-29 - :star: 16029 :fork\_and\_knife: 1789 - A Python package that generates fake data.
+  * [:octocat: faker](https://github.com/joke2k/faker) ⭐ 19,421 | 🐛 41 | 🌐 Python | 📅 2026-09-29 - :star: 16029 :fork\_and\_knife: 1789 - A Python package that generates fake data.
   * [:octocat: mimesis](https://github.com/lk-geimfari/mimesis) ⭐ 4,840 | 🐛 15 | 🌐 Python | 📅 2026-09-29 - :star: 4005 :fork\_and\_knife: 312 - is a Python library that help you generate fake data.
   * [:octocat: fake2db](https://github.com/emirozer/fake2db) ⭐ 2,346 | 🐛 7 | 🌐 Python | 📅 2019-11-25 - :star: 2189 :fork\_and\_knife: 120 - Fake database generator.
   * [:earth\_americas: radar](https://pypi.org/project/radar/) - Generate random datetime / time.
@@ -1253,7 +1253,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 *Libraries for extracting web contents.*
 
-* [:octocat: newspaper](https://github.com/codelucas/newspaper) ⭐ 15,170 | 🐛 515 | 🌐 Python | 📅 2026-09-15 - :star: 12934 :fork\_and\_knife: 2051 - News extraction, article extraction and content curation in Python.
+* [:octocat: newspaper](https://github.com/codelucas/newspaper) ⭐ 15,171 | 🐛 515 | 🌐 Python | 📅 2026-09-15 - :star: 12934 :fork\_and\_knife: 2051 - News extraction, article extraction and content curation in Python.
 * [:octocat: requests-html](https://github.com/psf/requests-html) ⭐ 13,807 | 🐛 241 | 🌐 Python | 📅 2024-04-16 - :star: 13230 :fork\_and\_knife: 965 - Pythonic HTML Parsing for Humans.
 * [:octocat: textract](https://github.com/deanmalmgren/textract) ⭐ 4,727 | 🐛 58 | 🌐 HTML | 📅 2026-10-01 - :star: 3574 :fork\_and\_knife: 535 - Extract text from any document, Word, PowerPoint, PDFs, etc.
 * [:octocat: sumy](https://github.com/miso-belica/sumy) ⭐ 3,698 | 🐛 7 | 🌐 Python | 📅 2026-09-09 - :star: 3203 :fork\_and\_knife: 512 - A module for automatic summarization of text documents and HTML pages.
@@ -1278,12 +1278,12 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 ## Web Frameworks
 
-*Traditional full stack web frameworks. Also see [RESTful API](https://github.com/vinta/awesome-python#restful-api) ⭐ 324,781 | 🐛 21 | 🌐 Python | 📅 2026-10-02.*
+*Traditional full stack web frameworks. Also see [RESTful API](https://github.com/vinta/awesome-python#restful-api) ⭐ 324,795 | 🐛 21 | 🌐 Python | 📅 2026-10-02.*
 
 * Synchronous
   * [:earth\_americas: Django](https://www.djangoproject.com/) - The most popular web framework in Python.
     * [:octocat: awesome-django](https://github.com/shahraizali/awesome-django) ⭐ 1,916 | 🐛 8 | 📅 2026-03-22 - :star: 1239 :fork\_and\_knife: 221
-    * [:octocat: awesome-django](https://github.com/wsvincent/awesome-django) ⭐ 11,268 | 🐛 5 | 🌐 Python | 📅 2026-09-16 - :star: 7218 :fork\_and\_knife: 1066
+    * [:octocat: awesome-django](https://github.com/wsvincent/awesome-django) ⭐ 11,269 | 🐛 5 | 🌐 Python | 📅 2026-09-16 - :star: 7218 :fork\_and\_knife: 1066
   * [:earth\_americas: Flask](http://flask.pocoo.org/) - A microframework for Python.
     * [:octocat: awesome-flask](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,784 | 🐛 7 | 📅 2026-08-17 - :star: 11468 :fork\_and\_knife: 1571
   * [:earth\_americas: Pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
@@ -1296,9 +1296,9 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 *Libraries for working with WebSocket.*
 
-* [:octocat: channels](https://github.com/django/channels) ⭐ 6,360 | 🐛 123 | 🌐 Python | 📅 2026-08-06 - :star: 5657 :fork\_and\_knife: 783 - Developer-friendly asynchrony for Django.
-* [:octocat: websockets](https://github.com/aaugustin/websockets) ⭐ 5,722 | 🐛 3 | 🌐 Python | 📅 2026-09-24 - :star: 4620 :fork\_and\_knife: 493 - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
-* [:octocat: autobahn-python](https://github.com/crossbario/autobahn-python) ⭐ 2,541 | 🐛 199 | 🌐 Python | 📅 2026-09-29 - :star: 2429 :fork\_and\_knife: 770 - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
+* [:octocat: channels](https://github.com/django/channels) ⭐ 6,361 | 🐛 123 | 🌐 Python | 📅 2026-08-06 - :star: 5657 :fork\_and\_knife: 783 - Developer-friendly asynchrony for Django.
+* [:octocat: websockets](https://github.com/aaugustin/websockets) ⭐ 5,723 | 🐛 3 | 🌐 Python | 📅 2026-09-24 - :star: 4620 :fork\_and\_knife: 493 - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
+* [:octocat: autobahn-python](https://github.com/crossbario/autobahn-python) ⭐ 2,542 | 🐛 199 | 🌐 Python | 📅 2026-09-29 - :star: 2429 :fork\_and\_knife: 770 - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
 
 ## WSGI Servers
 
@@ -1330,7 +1330,7 @@ Where to discover learning resources or new Python libraries.
   * [:earth\_americas: Awesome Python @LibHunt](https://python.libhunt.com/)
   * [:earth\_americas: Explore Python](https://kandi.openweaver.com/explore/python) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 * Others
-  * [:octocat: What the f\*ck Python!](https://github.com/satwikkansal/wtfpython) ⭐ 37,101 | 🐛 73 | 🌐 Python | 📅 2026-01-13 - :star: 32855 :fork\_and\_knife: 2575
+  * [:octocat: What the f\*ck Python!](https://github.com/satwikkansal/wtfpython) ⭐ 37,102 | 🐛 73 | 🌐 Python | 📅 2026-01-13 - :star: 32855 :fork\_and\_knife: 2575
   * [:earth\_americas: Python ZEEF](https://python.zeef.com/alan.richmond)
   * [:earth\_americas: Pythonic News](https://news.python.sc/)
 
@@ -1357,7 +1357,7 @@ Your contributions are always welcome!
 
 If you find out any repo has been outdate or its link has not valid anymore, please open a pull request. I will merge it soon.
 
-If you want to add a new repo, please go to [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,781 | 🐛 21 | 🌐 Python | 📅 2026-10-02 and create a pull request first.
+If you want to add a new repo, please go to [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,795 | 🐛 21 | 🌐 Python | 📅 2026-10-02 and create a pull request first.
 
 ***
 
